@@ -1,0 +1,115 @@
+ /*common start*/
+ body{
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #008aff;
+} 
+/* comon end */
+
+
+/*header start*/
+header{
+	padding: 10px 0;
+}
+.wrapper{
+	overflow: hidden;
+	display: flex;
+	width: 80%;
+	
+	margin: 0 180px;
+}
+.logo{
+	width: 10%;
+	
+}
+
+
+.logo img{
+	margin:20px 0 ;
+	width: 100%;
+	
+	
+}
+
+
+.menu{
+	float: left;
+
+	margin: 10px 0;
+	
+	width: 50%;
+	
+} 
+.menu ul{
+	float: left;
+	
+}
+.menu ul li{
+
+	float: left;
+	list-style: none;
+}
+.menu ul li a{
+	display: inline-block;
+
+	padding: 0 20px;
+	text-decoration: none;
+
+}
+
+.button{
+
+	width: 15%;
+	height: 48px;
+    margin: 28px 122px;}
+
+
+.button button{
+	float: right;
+	padding: 7px;
+    
+	font-weight: 700;
+	background-color: #ff6162;
+	color: wheat;
+	border: 1px solid #ff6162;
+	border-radius: 5px;
+}
+
+/* 2nd part start */
+h1{
+
+	font-family: sans-serif;
+	color: black;
+}
+
+
+
+
+
+h2{
+	
+	font-family: serif;
+	font-size: 16px;
+	opacity: 0.5;
+	color: black;
+}
+
+
+
+.wrapper-2{display: flex;
+	
+	width: 70%;
+	margin: 100px auto;
+	
+}
+
+.logo2{width: 20%;
+
+}
+
+
+.logo2 img{
+
+}
+/* 2nd part end */
